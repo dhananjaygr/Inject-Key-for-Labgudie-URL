@@ -24,15 +24,15 @@ Users can navigate directly to any numbered page in the Lab Guide by using the i
 
    ![](./Img/02.png)
 
-5. Click the Submit button. 
+5. Click the **Submit** button. 
 
    ![](./Img/03.png)
 
-6. Navigate to the Users section and deploy the user. 
+6. Navigate to the **Users** section and deploy the user. 
 
    ![](./Img/04.png)
 
-7. Once the user is deployed, you will see the Inject Key present on the Lab Guide. Copy the URL, open a new tab, and paste it into the new tab. At the end of the URL, change the page number to where you want to navigate in the Lab Guide, then press Enter. The specified page will be displayed.
+7. Once the user is deployed, you will see the **Inject Key** present on the Lab Guide. Copy the URL, open a new tab, and paste it into the new tab. At the end of the URL, replace the page number with the one you want to navigate to in the Lab Guide, and then press Enter. The specified page will be displayed.
 
    ![](./Img/05.png)
 
