@@ -12,7 +12,13 @@ Users can navigate directly to any numbered page in the Lab Guide by using the i
 
 1. Use the below Inject Key in the Lab Guide.
 
+   ``
    <inject value="https://experience.cloudlabs.ai/#/odl/labguide/" key="ODLUniqueName" value="/" key="AttendeeUniqueName" value="/1/1" enableCopy="true" />
+   ``
+
+   >**Note:** **ODLUniqueName** represents the unique ODL ID in the Lab Guide of the deployed user.
+
+   >**Note:** **AttendeeUniqueName** represents the attendee’s (user’s) unique ID in the Lab Guide of the deployed user.
 
 2. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the ODL section.
 
