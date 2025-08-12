@@ -8,7 +8,7 @@ Inject Key for the Lab Guide URL
 
 Users can navigate directly to any numbered page in the Lab Guide by using the inject key URL and appending a forward slash (/) followed by the page number.
 
-### Inject Key for the Lab Guide URL
+### Steps to Use Inject Key for the Lab Guide URL
 
 1. Use the below Inject Key in the Lab Guide.
 
