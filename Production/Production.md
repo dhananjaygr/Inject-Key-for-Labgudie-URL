@@ -22,7 +22,7 @@ Users can navigate directly to any numbered page in the Lab Guide by using the i
 
 2. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the ODL section.
 
-3. Navigate to the **ODL (1)** section in the left menu and open your respective ODL. Click the **Edit (2)** button. 
+3. Navigate to the **ODL (1)** section in the left menu and go to your respective ODL. Click the **Edit (2)** button. 
 
    ![](./Img/01.png)
 
